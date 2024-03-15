@@ -1,0 +1,1 @@
+Docentric.CertTool requires .Net 4.6 or higher.
